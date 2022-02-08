@@ -78,6 +78,10 @@ order: 200000
   - [ ] _Before I [publish a new version](#publishing--)_
   - [ ] _______________________________________________________________________________.
 
+- I will organise my files
+  - [ ] _Using a well-planned and clear directory structure_
+  - [ ] _______________________________________________________________________________.
+
 ### Dependencies [ ]
 
 - I will make sure my dependencies are listed
@@ -147,6 +151,7 @@ order: 200000
 - I will make it
   [easy for others collaborate](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296#sec007)
   on my code by (tick all that apply)
+  - [ ] _Using collaboration-friendly services like GitHub_
   - [ ] _Writing a welcome guide for new contributors_
   - [ ] _Having easy templates for users to submit bug reports and feature requests_
   - [ ] _Ensuring a welcoming attitude for contributors_
