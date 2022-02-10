@@ -3,20 +3,15 @@ title: "Workflow checklist" # title of the episode
 teaching: 5 # time required to teach (minutes)
 exercises: 20 # time required for participants to do the activities (minutes)
 duration: 0 # duration not included in teaching/exercises time (minutes)
-# summary of the episode content for displaying on the schedule page
-summary: >-
-  A checklist to help you ensure your workflow includes the topics covered today.
+summary: 
 questions:
-  - What will I do?
-  - When will I do it?
-  - How will I remember to?
 objectives:
-  - Be confident you'll remember to implement the skills learned here today.
 keypoints:
 is-break: false
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
 day: 1
 order: 200000
+ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
+
 ---
 
 ## How to use this checklist
