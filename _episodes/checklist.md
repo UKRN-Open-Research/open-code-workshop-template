@@ -85,6 +85,7 @@ order: 200000
 ### Dependencies [ ]
 
 - I will make sure my dependencies are listed
+  - [ ] _Using a full environment management system (e.g. Docker, Apptainer)_
   - [ ] _Using automated dependency management tools (e.g. conda, renv)_
   - [ ] _By automatically documenting them when the code runs_
   - [ ] _By including them in [the documentation](#documentation--)_
